@@ -1,0 +1,11 @@
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\tpmodul7_kelompok_6\tpmodul7_kelompok_6\bin\Debug\tpmodul7_kelompok_6.exe.config
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\tpmodul7_kelompok_6\tpmodul7_kelompok_6\bin\Debug\tpmodul7_kelompok_6.exe
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\tpmodul7_kelompok_6\tpmodul7_kelompok_6\bin\Debug\tpmodul7_kelompok_6.pdb
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\tpmodul7_kelompok_6\tpmodul7_kelompok_6\bin\Debug\Newtonsoft.Json.dll
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\tpmodul7_kelompok_6\tpmodul7_kelompok_6\bin\Debug\Newtonsoft.Json.xml
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\tpmodul7_kelompok_6\tpmodul7_kelompok_6\obj\Debug\tpmodul7_kelompok_6.csproj.AssemblyReference.cache
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\tpmodul7_kelompok_6\tpmodul7_kelompok_6\obj\Debug\tpmodul7_kelompok_6.csproj.CoreCompileInputs.cache
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\tpmodul7_kelompok_6\tpmodul7_kelompok_6\obj\Debug\tpmodul7.BBC1FE5F.Up2Date
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\tpmodul7_kelompok_6\tpmodul7_kelompok_6\obj\Debug\tpmodul7_kelompok_6.exe
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\tpmodul7_kelompok_6\tpmodul7_kelompok_6\obj\Debug\tpmodul7_kelompok_6.pdb
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\tpmodul7_kelompok_6\tpmodul7_kelompok_6\bin\Debug\tp7_1_2211104027.json
