@@ -9,3 +9,4 @@ D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Prakti
 D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\tpmodul7_kelompok_6\tpmodul7_kelompok_6\obj\Debug\tpmodul7_kelompok_6.exe
 D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\tpmodul7_kelompok_6\tpmodul7_kelompok_6\obj\Debug\tpmodul7_kelompok_6.pdb
 D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\tpmodul7_kelompok_6\tpmodul7_kelompok_6\bin\Debug\tp7_1_2211104027.json
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\tpmodul7_kelompok_6\tpmodul7_kelompok_6\bin\Debug\tp7_2_2211104027.json
